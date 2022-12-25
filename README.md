@@ -1,10 +1,12 @@
 # Butterfly-Knife-Trainer-WebGL
 
-## Nama: Warren Gerald Polandra
+## Data mahasiswa
 
-## NRP: 5025201233
+### Nama: Warren Gerald Polandra
 
-## Kelas: Grafika Komputer E
+### NRP: 5025201233
+
+### Kelas: Grafika Komputer E
 
 ## Deskripsi
 
