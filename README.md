@@ -2,11 +2,11 @@
 
 ## Data mahasiswa
 
-### Nama: Warren Gerald Polandra
+Nama: Warren Gerald Polandra
 
-### NRP: 5025201233
+NRP: 5025201233
 
-### Kelas: Grafika Komputer E
+Kelas: Grafika Komputer E
 
 ## Deskripsi
 
